@@ -33,7 +33,7 @@
 
 <br/>
 
-> 設計作品集｜[Behance](https://)
+> 平面設計作品｜[Behance](https://)
 > <br/>
 > 網頁開發文章｜[Medium](https://)
 
