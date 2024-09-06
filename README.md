@@ -14,5 +14,5 @@
 <hr/>
 <br/>
 
-| 聯絡資訊 |  | 
+| 聯絡方式 | 聯絡資訊 | 
 | Email | yidatsai.789@gmail.com |
