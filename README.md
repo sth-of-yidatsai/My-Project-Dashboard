@@ -12,4 +12,4 @@
 
 <hr/>
 
-| Email | yidatsai.789@gmail.com |
+Email | yidatsai.789@gmail.com
