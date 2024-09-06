@@ -33,8 +33,8 @@
 
 <br/>
 
-> 設計作品集[Behance](https://)
+> 設計作品集｜[Behance](https://)
 > <br/>
-> 網頁開發文章[Medium](https://)
+> 網頁開發文章｜[Medium](https://)
 
 <p>© 2024 蔡易達 | <a href="https://github.com/sth-of-yidatsai" target="_blank">我的 GitHub</a></p>
