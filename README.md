@@ -13,7 +13,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><strong>💻 <a href="https://github.com/your-username/project-1" target="_blank">CampMate React</a></strong></td>
+      <td><strong>💻 <a href="https://github.com/sth-of-yidatsai/project_campmate-devYida">CampMate React</a></strong></td>
       <td>資策會前端工程師就業養成班｜大專｜一站式露營網站前台開發</td>
     </tr>
     <tr>
