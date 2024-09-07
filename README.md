@@ -13,11 +13,11 @@
   </thead>
   <tbody>
     <tr>
-      <td><strong>💻 <a href="https://github.com/sth-of-yidatsai/project_campmate-devYida">CampMate React</a></strong></td>
+      <td><strong>⛺ <a href="https://github.com/sth-of-yidatsai/project_campmate-devYida">CampMate React</a></strong></td>
       <td>資策會前端工程師就業養成班｜大專｜一站式露營網站前台開發</td>
     </tr>
     <tr>
-      <td><strong>🔧 <a href="https://github.com/sth-of-yidatsai/campmate/tree/main" target="_blank">CampMate PHP</a></strong></td>
+      <td><strong>⚙️ <a href="https://github.com/sth-of-yidatsai/campmate/tree/main" target="_blank">CampMate PHP</a></strong></td>
       <td>資策會前端工程師就業養成班｜小專｜一站式露營網站後台開發</td>
     </tr>
     <tr>
