@@ -33,9 +33,9 @@
 
 <br/>
 
-> 平面設計作品｜[Behance](https://)
+> 平面設計作品｜[Behance](https://www.behance.net/sth_of_yidatsai)
 > <br/>
-> 網頁開發文章｜[Medium](https://)
+> 網頁開發文章｜[Medium](https://medium.com/@yidatsai.789)
 
 <br/>
 
